@@ -1,5 +1,3 @@
-package com.cse563.utility;
-
 public class Constants {
 
     public static String APP_NAME = "Attendance System";
